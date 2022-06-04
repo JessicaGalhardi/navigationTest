@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+
+        android:id="@+id/fragHome"
+        android:icon="@drawable/casa"
+        android:title="@string/home" />
+
+    <item
+
+        android:id="@+id/fragTasks"
+        android:icon="@drawable/tasks"
+        android:title="@string/tasks" />
+    <item
+
+        android:id="@+id/fragProfile"
+        android:icon="@drawable/profile"
+        android:title="@string/profile" />
+
+</menu>
